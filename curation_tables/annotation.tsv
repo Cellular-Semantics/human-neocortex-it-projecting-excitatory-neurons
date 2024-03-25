@@ -1,28 +1,28 @@
 cell_set_accession	cell_label	cell_fullname	parent_cell_set_accession	parent_cell_set_name	labelset	cell_ontology_term_id	cell_ontology_term	rationale	rationale_dois	marker_gene_evidence	synonyms
-6ad1500478	L4 IT_6	L4 IT_6	0a203d52c0	L4 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-d14bb8bbd5	L6 IT_1	L6 IT_1	83f4de90f8	L6 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-7d94b69cfd	L2/3 IT_6	L2/3 IT_6	e57f66e762	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-4d9b8d57f3	L2/3 IT_4	L2/3 IT_4	e57f66e762	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-742bb61c1d	L4 IT_3	L4 IT_3	0a203d52c0	L4 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-3abfec5e78	L4 IT_4	L4 IT_4	0a203d52c0	L4 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-e9c39a4e3e	L2/3 IT_1	L2/3 IT_1	e57f66e762	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-cbaf5d3669	L2/3 IT_2	L2/3 IT_2	e57f66e762	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-a01199de10	L5 IT_5	L5 IT_5	41a2183b04	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-987e231372	L4 IT_5	L4 IT_5	0a203d52c0	L4 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-dceb423927	L5 IT_3	L5 IT_3	41a2183b04	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-31b4155e51	L5 IT_1	L5 IT_1	41a2183b04	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-b7d1c82668	L2/3 IT_3	L2/3 IT_3	e57f66e762	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-7c954f6204	L6 IT Car3_1	L6 IT Car3_1	9c6e44589a	L6 IT Car3	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-1b52724279	L6 IT_2	L6 IT_2	83f4de90f8	L6 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-4b11902bb8	L5 IT_2	L5 IT_2	41a2183b04	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-1931f80c5c	L6 IT Car3_2	L6 IT Car3_2	9c6e44589a	L6 IT Car3	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-a801145e61	L5 IT_4	L5 IT_4	41a2183b04	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-e6103ca922	L5 IT_6	L5 IT_6	41a2183b04	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-e7444630ae	L4 IT_2	L4 IT_2	0a203d52c0	L4 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-db1f01651f	L2/3 IT_5	L2/3 IT_5	e57f66e762	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-30f6c01644	L4 IT_1	L4 IT_1	0a203d52c0	L4 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-9c6e44589a	L6 IT Car3	L6 IT Car3			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-e57f66e762	L2/3 IT	L2/3 IT			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-41a2183b04	L5 IT	L5 IT			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-0a203d52c0	L4 IT	L4 IT			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
-83f4de90f8	L6 IT	L6 IT			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+CrossArea_cluster:e6103ca922	L5 IT_6	L5 IT_6	CrossArea_subclass:41a2183b04	L5 IT	CrossArea_cluster						
+CrossArea_cluster:6ad1500478	L4 IT_6	L4 IT_6	CrossArea_subclass:0a203d52c0	L4 IT	CrossArea_cluster						
+CrossArea_cluster:a01199de10	L5 IT_5	L5 IT_5	CrossArea_subclass:41a2183b04	L5 IT	CrossArea_cluster						
+CrossArea_cluster:3abfec5e78	L4 IT_4	L4 IT_4	CrossArea_subclass:0a203d52c0	L4 IT	CrossArea_cluster						
+CrossArea_cluster:4b11902bb8	L5 IT_2	L5 IT_2	CrossArea_subclass:41a2183b04	L5 IT	CrossArea_cluster						
+CrossArea_cluster:d14bb8bbd5	L6 IT_1	L6 IT_1	CrossArea_subclass:83f4de90f8	L6 IT	CrossArea_cluster						
+CrossArea_cluster:1b52724279	L6 IT_2	L6 IT_2	CrossArea_subclass:83f4de90f8	L6 IT	CrossArea_cluster						
+CrossArea_cluster:dceb423927	L5 IT_3	L5 IT_3	CrossArea_subclass:41a2183b04	L5 IT	CrossArea_cluster						
+CrossArea_cluster:4d9b8d57f3	L2/3 IT_4	L2/3 IT_4	CrossArea_subclass:e57f66e762	L2/3 IT	CrossArea_cluster						
+CrossArea_cluster:742bb61c1d	L4 IT_3	L4 IT_3	CrossArea_subclass:0a203d52c0	L4 IT	CrossArea_cluster						
+CrossArea_cluster:b7d1c82668	L2/3 IT_3	L2/3 IT_3	CrossArea_subclass:e57f66e762	L2/3 IT	CrossArea_cluster						
+CrossArea_cluster:31b4155e51	L5 IT_1	L5 IT_1	CrossArea_subclass:41a2183b04	L5 IT	CrossArea_cluster						
+CrossArea_cluster:e9c39a4e3e	L2/3 IT_1	L2/3 IT_1	CrossArea_subclass:e57f66e762	L2/3 IT	CrossArea_cluster						
+CrossArea_cluster:7c954f6204	L6 IT Car3_1	L6 IT Car3_1	CrossArea_subclass:9c6e44589a	L6 IT Car3	CrossArea_cluster						
+CrossArea_cluster:db1f01651f	L2/3 IT_5	L2/3 IT_5	CrossArea_subclass:e57f66e762	L2/3 IT	CrossArea_cluster						
+CrossArea_cluster:987e231372	L4 IT_5	L4 IT_5	CrossArea_subclass:0a203d52c0	L4 IT	CrossArea_cluster						
+CrossArea_cluster:7d94b69cfd	L2/3 IT_6	L2/3 IT_6	CrossArea_subclass:e57f66e762	L2/3 IT	CrossArea_cluster						
+CrossArea_cluster:cbaf5d3669	L2/3 IT_2	L2/3 IT_2	CrossArea_subclass:e57f66e762	L2/3 IT	CrossArea_cluster						
+CrossArea_cluster:30f6c01644	L4 IT_1	L4 IT_1	CrossArea_subclass:0a203d52c0	L4 IT	CrossArea_cluster						
+CrossArea_cluster:a801145e61	L5 IT_4	L5 IT_4	CrossArea_subclass:41a2183b04	L5 IT	CrossArea_cluster						
+CrossArea_cluster:1931f80c5c	L6 IT Car3_2	L6 IT Car3_2	CrossArea_subclass:9c6e44589a	L6 IT Car3	CrossArea_cluster						
+CrossArea_cluster:e7444630ae	L4 IT_2	L4 IT_2	CrossArea_subclass:0a203d52c0	L4 IT	CrossArea_cluster						
+CrossArea_subclass:e57f66e762	L2/3 IT	L2/3 IT			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+CrossArea_subclass:41a2183b04	L5 IT	L5 IT			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+CrossArea_subclass:0a203d52c0	L4 IT	L4 IT			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+CrossArea_subclass:9c6e44589a	L6 IT Car3	L6 IT Car3			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+CrossArea_subclass:83f4de90f8	L6 IT	L6 IT			CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
